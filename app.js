@@ -1,2 +1,2 @@
 document.write("You'll see a clock here.");
-console.log("Hello World !")
+document.getElementById("para").innerHTML = 'This is a paragraph.'
